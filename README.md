@@ -8,6 +8,10 @@ I am a senior Computer Science student graduating in July 2022.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dlomax64&theme=radical&show_icons=true&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlomax64&theme=radical&exclude_repo=smells-like-team-spirit&hide=scss,typescript&show_icons=true&layout=compact&langs_count=8"/>
 </p>
+
+### My Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!--
 **dlomax64/dlomax64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
